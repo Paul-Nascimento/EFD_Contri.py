@@ -1,0 +1,3 @@
+def validacao():
+
+    print('a')
